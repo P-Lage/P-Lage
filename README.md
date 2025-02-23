@@ -5,8 +5,8 @@
 No momento estou concluindo meu bacharel em física na Universidade Federal do Pará, durante a minha formação eu tive contato com a programação para trabalhar com dados, seja na visualização deles, ou na manipulação deles. Desde então eu me interessei por programação e venho aprendendo Python como linguagem principal para trabalhar com DataScience, porém, também estou me aprofundando em C++ para a aplicação na resolução de alguns problemas avançados de física recorrentes em matérias de final de graduação.
 
 ## Habilidades
-- **Linguagens de Programação:** Python, C++
-- **Frameworks e Bibliotecas:** Pandas, NumPy, Matplotlib, Django
+- **Linguagens de Programação:** Python, SQL, C++
+- **Frameworks e Bibliotecas:** Pandas, NumPy
 - **Ferramentas e Tecnologias:** Git e Github
 - **Outras Habilidades:** Resolução de problemas, comunicação, trabalho em equipe, capacidade de adaptação, capacidade analítica e capacidade de organização
 
