@@ -1,39 +1,69 @@
-# 👋 Olá, eu sou Pedro Lage
+<h1 align="center">👋 Olá! Eu sou Pedro Lage</h1>
 
-Sou graduando em Física pela Universidade Federal do Pará, com sólida base em matemática, estatística e simulação computacional. Atuo há mais de 5 anos como educador nas áreas de Física e Matemática, e atualmente estou em transição de carreira para a área de **Ciência de Dados** e **Desenvolvimento com Python**.
+<p align="center">
+  🎓 Físico em formação | 📊 Data Science e Machine Learning | 🧠 Soluções analíticas com Python e SQL
+</p>
 
-## 🚀 O que estou construindo
+<p align="center">
+  <a href="mailto:pedro.lage@email.com">
+    <img src="https://img.shields.io/badge/Email-pedro.lage%40email.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/pedrolage" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lage-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/pedrolage" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-pedrolage-black?style=flat-square&logo=github" />
+  </a>
+</p>
 
-Atualmente, desenvolvo projetos voltados para análise de dados, aprendizado de máquina, processamento de linguagem natural e APIs em Python. Meus repositórios refletem uma jornada prática e contínua de aprendizado em Data Science, com foco na resolução de problemas do mundo real.
+---
 
-## 🧠 Habilidades e Tecnologias
+### 🧠 Sobre mim
 
-- **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
-- **SQL** para análise de dados e extração de insights
-- **Machine Learning**: regressão, classificação, NLP
-- **API REST** com FastAPI
-- **Jupyter Notebooks** para EDA e modelagem preditiva
-- **Versionamento** com Git/GitHub
-- **Soft Skills**: comunicação, organização, resolução de problemas
+Sou graduando em **Física** pela Universidade Federal do Pará, apaixonado por **dados, algoritmos e tecnologia**. Com experiência em ensino, análise de dados, modelagem matemática e desenvolvimento de software, estou migrando de área para atuar como **Cientista de Dados**.
 
-## 💡 Projetos em destaque
+> 📌 Meu foco é aplicar estatística, machine learning e pensamento analítico para resolver problemas reais e gerar impacto.
 
-- `Feyn` - Chatbot de Física com NLP
-- `task-api` - API RESTful para gerenciamento de tarefas
-- `house-prices-analysis` - Análise e predição de preços de imóveis
+---
 
-## 📫 Contato
-- **Email:** [lagecomg@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/pedro-lage-9579742a1]
-- **GitHub:** [github.com/P-Lage]
+### 🚀 Principais habilidades
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=P-Lage&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Lage&layout=compact&theme=radical)
+---
 
-## Como Contribuir
-Se você quiser contribuir para algum dos meus projetos, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. Ficarei feliz em revisar e colaborar!
+### 📂 Projetos em destaque
 
-## Licença
-[MIT](https://choosealicense.com/licenses/mit/) - Sinta-se à vontade para usar e modificar qualquer projeto que eu tenha compartilhado.
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [**Feyn**](https://github.com/pedrolage/feyn) | 🤖 Chatbot de Física com NLP para estudantes do ensino médio | Python, spaCy, NLP |
+| [**Task API**](https://github.com/pedrolage/task-api) | 🔧 API RESTful para gerenciamento de tarefas com autenticação | FastAPI, SQLAlchemy, Pytest |
+| [**House Prices Analysis**](https://github.com/pedrolage/house-prices-analysis) | 🏠 Análise e predição de preços de imóveis com regressão | Pandas, scikit-learn, EDA, matplotlib |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolage&show_icons=true&theme=default&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolage&layout=compact&theme=default" />
+</p>
+
+---
+
+### 🤝 Vamos conversar!
+
+Se você se interessa por **Ciência de Dados, Python, Machine Learning ou educação**, vamos trocar ideias!  
+📩 Entre em contato pelo [LinkedIn](www.linkedin.com/in/pedro-lage-9579742a1) ou por [e-mail](mailto:lagecomg@gmail.com).
+
+> *"A ciência é feita de dados, mas o valor está nas perguntas certas."*
+
+---
