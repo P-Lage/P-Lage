@@ -1,23 +1,28 @@
-# Olá, eu me chamo Pedro Lage! 👋
+# 👋 Olá, eu sou Pedro Lage
 
-## Sobre Mim
-👨‍💻 **Desenvolvedor júnior em Python** | 🌍 **Belém/PA/Brasil** | 📧 **lagecomg@gmail.com**  
-No momento estou concluindo meu bacharel em física na Universidade Federal do Pará, durante a minha formação eu tive contato com a programação para trabalhar com dados, seja na visualização deles, ou na manipulação deles. Desde então eu me interessei por programação e venho aprendendo Python como linguagem principal para trabalhar com DataScience, porém, também estou me aprofundando em C++ para a aplicação na resolução de alguns problemas avançados de física recorrentes em matérias de final de graduação.
+Sou graduando em Física pela Universidade Federal do Pará, com sólida base em matemática, estatística e simulação computacional. Atuo há mais de 5 anos como educador nas áreas de Física e Matemática, e atualmente estou em transição de carreira para a área de **Ciência de Dados** e **Desenvolvimento com Python**.
 
-## Habilidades
-- **Linguagens de Programação:** Python, SQL, C++
-- **Frameworks e Bibliotecas:** Pandas, NumPy
-- **Ferramentas e Tecnologias:** Git e Github
-- **Outras Habilidades:** Resolução de problemas, comunicação, trabalho em equipe, capacidade de adaptação, capacidade analítica e capacidade de organização
+## 🚀 O que estou construindo
 
-## Educação
-- **[Universidade Federal do Pará]** - [Física - Bacharelado] - [2025]
+Atualmente, desenvolvo projetos voltados para análise de dados, aprendizado de máquina, processamento de linguagem natural e APIs em Python. Meus repositórios refletem uma jornada prática e contínua de aprendizado em Data Science, com foco na resolução de problemas do mundo real.
 
-## Experiência Profissional
-- **[Colégio Equipe - SEE]** - [Professor Assistente] - [2022-2024]  
-Atuei como professor assistente na editora da instituição durante o ano de 2022, colaborando na produção de materiais didáticos de física. Durante o ano de 2023 até o primeiro semestre de 2024 colaborei como professor assistente de física no colégio da instituição.
+## 🧠 Habilidades e Tecnologias
 
-## Contato
+- **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
+- **SQL** para análise de dados e extração de insights
+- **Machine Learning**: regressão, classificação, NLP
+- **API REST** com FastAPI
+- **Jupyter Notebooks** para EDA e modelagem preditiva
+- **Versionamento** com Git/GitHub
+- **Soft Skills**: comunicação, organização, resolução de problemas
+
+## 💡 Projetos em destaque
+
+- `Feyn` - Chatbot de Física com NLP
+- `task-api` - API RESTful para gerenciamento de tarefas
+- `house-prices-analysis` - Análise e predição de preços de imóveis
+
+## 📫 Contato
 - **Email:** [lagecomg@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/pedro-lage-9579742a1]
 - **GitHub:** [github.com/P-Lage]
