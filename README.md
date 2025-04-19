@@ -50,15 +50,6 @@ Sou graduando em **Física** pela Universidade Federal do Pará, apaixonado por 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolage&show_icons=true&theme=default&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolage&layout=compact&theme=default" />
-</p>
-
----
-
 ### 🤝 Vamos conversar!
 
 Se você se interessa por **Ciência de Dados, Python, Machine Learning ou educação**, vamos trocar ideias!  
