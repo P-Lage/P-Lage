@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pedro.lage@email.com">
-    <img src="https://img.shields.io/badge/Email-pedro.lage%40email.com-blue?style=flat-square&logo=gmail" />
+  <a href="mailto:lagecomg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lagecomg%40gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/pedrolage" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lage-blue?style=flat-square&logo=linkedin" />
