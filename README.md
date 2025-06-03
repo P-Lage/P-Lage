@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Lage-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/P-lage" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-P-lage-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Plage-black?style=flat-square&logo=github" />
   </a>
 </p>
 
